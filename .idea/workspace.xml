@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10c7f246-64ed-44d7-8ce3-601b658b5e86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StackOverFlowLLD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dao/BlockedUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dao/QuestionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/SOFException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/SOFExceptionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/StatusVoteCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/UserModel/UserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/AnswerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Notification/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/QuestionService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eNIwqvT3oGie4gmz9A5eaCScmm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/himanshu_lal_7/IdeaProjects/StackOverFlowLLD/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StackOverFlowLLD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10c7f246-64ed-44d7-8ce3-601b658b5e86" name="Changes" comment="" />
+      <created>1711738850941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711738850941</updated>
+      <workItem from="1711738851999" duration="679000" />
+      <workItem from="1711739831575" duration="5295000" />
+      <workItem from="1711883076152" duration="5155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
